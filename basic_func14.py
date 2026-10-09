@@ -9,3 +9,8 @@ def main(a, b):
      int: natija.
      '''
     return 
+a = 11
+b = 2
+c = a / b
+d = int(c)
+print(d)

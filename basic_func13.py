@@ -8,3 +8,7 @@ def main(a):
      float: natija qiymat.
      '''
     return
+import math
+a = 9
+a = math.sqrt(a)
+print(a)

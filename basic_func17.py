@@ -8,3 +8,6 @@ def main():
      float: pi qiymati.
      '''
     return
+from math import pi
+a = pi 
+print(a)

@@ -9,3 +9,8 @@ def main(a, b):
      int: natija.
      '''
     return
+from math import log
+a = 10
+b = 1000
+d = round(log(1000,10))
+print(d)

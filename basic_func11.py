@@ -8,3 +8,6 @@ def main(a):
      int: mutlaq qiymat.
     '''
     return
+a = -5
+a = abs(a)
+print(a)
